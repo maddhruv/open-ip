@@ -13,7 +13,7 @@ Just add your *IP Address* as the param - https://open-ip.herokuapp.com/:ip
 
 ## Response
 
-```json
+```js
 {
   "range": [
     2636488704, // <low bound of IP block>
