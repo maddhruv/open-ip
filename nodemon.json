@@ -1,0 +1,10 @@
+{
+  "exec": "ts-node src",
+  "ext": "ts",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "watch": [
+    "src"
+  ]
+}

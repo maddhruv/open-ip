@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "build",
+    "target": "es6",
+    "types": [
+      "node"
+    ]
+  }
+}
